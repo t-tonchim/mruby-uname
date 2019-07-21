@@ -1,0 +1,7 @@
+name: mruby-uname
+description: Uname class
+author: t-tonchim
+website: https://github.com/t-tonchim/mruby-uname
+protocol: git
+repository: https://github.com/t-tonchim/mruby-uname.git
+license: MIT
